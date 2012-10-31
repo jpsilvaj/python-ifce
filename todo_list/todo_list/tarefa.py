@@ -1,3 +1,2 @@
-class Tarefa (){
+class Tarefa():
 	pass
-}
